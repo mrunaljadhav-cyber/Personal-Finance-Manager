@@ -1,0 +1,23 @@
+.text-white {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .text-white:hover {
+    color: #e0e0e0;
+  }
+  
+  .container {
+    padding: 20px;
+    margin-top: 20px;
+  }
+  
+  /* Remove default link styles */
+  a {
+    text-decoration: none;
+  }
+  
+  /* Add some spacing for the main content */
+  main {
+    margin-top: 64px;
+  }
